@@ -2,6 +2,7 @@
   <h1>Hey there, I'm Yoan Gavrilov</h1>
   <p><strong>Full Stack Web Developer</strong>
   <p><strong>JavaScript/TypeScript, Next.js, .NET, C#, SQL</strong></p>
+  <p><strong>Check out my links for more!</strong></p>
 </div>
 
 <hr>
